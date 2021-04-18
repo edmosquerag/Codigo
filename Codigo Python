@@ -4,7 +4,9 @@ from tkinter import Tk, Button, Frame, Label, Entry, Text
 ventana = Tk()
 ventana.title("Ejemplo Frames")
 ventana.geometry("600x400+400+100")
-
+file=open("Tarea2.txt","w")
+file=open("Tarea3.txt","w")
+file=open("Tarea1.txt","w")
 
 
 # def
